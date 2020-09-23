@@ -1,0 +1,59 @@
+body{
+    background: #CCC;
+}
+#Header a:hover{
+    color: #FFF;
+}
+
+#bg-img{
+    background-image: url("https://i.pinimg.com/originals/3a/44/e7/3a44e7e8a454654465a570a81a89ae41.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+
+}
+#About{
+    margin-top: -200px;
+
+}
+#About .fa{
+    color: #fff;
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#Skills span{
+    padding: 10px 20px 10px 20px;
+}
+#Skills hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#Education span{
+    padding: 10px 20px 10px 20px;
+}
+#Education hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#Contact span{
+    padding: 10px 20px 10px 20px;
+}
+#Contact hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
+#comment{
+    height: 150px;
+}
+#Projects span{
+    padding: 10px 20px 10px 20px;
+}
+#Projects hr{
+    border-width: 2px;
+    margin-top: 06px;
+}
